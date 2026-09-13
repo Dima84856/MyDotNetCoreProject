@@ -11,5 +11,6 @@ class Program
     static void GreetUser(string name)
     {
         Console.WriteLine($"Hello, {name}!");
+        Console.WriteLine("Have a great day!");
     }
 }
